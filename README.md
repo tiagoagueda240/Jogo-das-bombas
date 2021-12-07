@@ -1,8 +1,6 @@
 **UNIVERSIDADE LUSÓFONA DE HUMANIDADES E TECNOLOGIAS**
 
-* 2020/2021*
-
-# Projecto Final / Projecto de Recurso / Projecto de Época Especial - BombRoad
+# Projecto Final
 
 # 1. Introdução
 
