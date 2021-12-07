@@ -1,5 +1,3 @@
-**UNIVERSIDADE LUSÓFONA DE HUMANIDADES E TECNOLOGIAS**
-
 # Projecto Final
 
 # 1. Introdução
